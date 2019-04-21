@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 
 require 'kconv'
 require 'configBcDiceForSystem.rb'
@@ -91,6 +91,7 @@ EndBreaker
 EtrianOdysseySRS
 FilledWith
 FullMetalPanic
+FUtariSousa
 GURPS
 Garako
 GardenOrder
